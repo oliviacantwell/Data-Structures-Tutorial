@@ -1,6 +1,6 @@
 # Data-Structures-Tutorial
 ## Welcome!
-Let me introduce you to this program! This is a tutorial to teach and practice three common data structures: (ADD LINKS TO PAGES) stacks, linked lists, and binary trees. The goal of this tutorial is to help you learn the basics of these data structures and how to use them. Each subject will incude the following elements:
+Let me introduce you to this program! This is a tutorial to teach and practice three common data structures: [stacks](Stacks/aboutStacks.md), linked lists, and binary trees. The goal of this tutorial is to help you learn the basics of these data structures and how to use them. Each subject will incude the following elements:
 * An introduction, which will explain when this structure is useful for programming
 * A diagram (or two) to visually help you see what goes on behind the scenes
 * A detailed explanation of the structure and how to use it
@@ -13,8 +13,8 @@ I hope you enjoy this tutorial! Please feel free to contact me about any mistake
 
 <br>
 
-## Topic Index
-### Stacks
+# Topic Index
+## Stacks
 [About Stacks](Stacks/aboutStacks.md)
 <br>
 [Stacks Problem Solution](Stacks/stacksSolution.py)
