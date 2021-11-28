@@ -12,6 +12,10 @@ Let me introduce you to this program! This is a tutorial to teach and practice t
 I hope you enjoy this tutorial! Please feel free to contact me about any mistakes or inefficiencies you see in this program. My email is oliviacantwell1@gmail.com
 
 <br>
+
 ## Topic Index
-(ADD LATER)
+### Stacks
+[About Stacks](Stacks/aboutStacks.md)
+<br>
+[Stacks Problem Solution](Stacks/stacksSolution.py)
 
