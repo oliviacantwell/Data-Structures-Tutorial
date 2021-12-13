@@ -20,6 +20,6 @@ I hope you enjoy this tutorial! Please feel free to contact me about any mistake
 [Stacks Problem Solution](Stacks/stacksSolution.py)
 
 <br>
-<br>
+
 ## Linked Lists
 [About Linked Lists](Linked-lists/aboutLinkedLists.md)
