@@ -36,6 +36,13 @@ value = stack.pop()
 stack.append(value)
 
 ```
+## Performance
+Luckily, stacks are highly efficient. Since we don't have to search through the stack to find what we want to push and pop (it will always be at the back), it will be O(1)
+
+| Operation | Performance |
+| --------- | ----------- |
+| push()    | O(1)        |
+| pop()     | O(1)        |
 
 ## Practice
 Now it's your turn to try! Copy the code below and try to solve the puzzle. You are given a list of letters out of order. Your task is to put them into alpabetical order using only the stack method. Hint: create another stacked list (or two...or three) to pop the letters off of the original list and save them in another list to append back onto the original list later when you need it.

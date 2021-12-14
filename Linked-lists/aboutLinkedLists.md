@@ -93,7 +93,17 @@ Note: we will delete the "current" node
     # Second, set the "next" of the node before the current to the next node after current
         curr.prev.next = curr.next
 ```
+## Performance
+The performance of a linked list depends on what you are doing. If you are removing or adding something that you know exactly where it is in the list (such as the head or tail), then it will be ) O(1). However, if you want to insert something or remove something in the middle (which means you will have to loop through to find what the node is after current to adjust the pointer to the next node), it will be O(n). 
 
+| Operation | Performance |
+| --------- | ----------- |
+| insert_head(value)    | O(1)        |
+| remove_head()     | O(1)        |
+| insert_tail(last, value) | O(1) |
+| remove_tail(last) | O(1)
+| insert(curr, value) (in middle) | O(n) |
+| remove(curr) (in middle) | O(n) |
 ## Practice 
 You may have noticed I left a few instructions out... How do you delete and insert the tail? Well lets see if you can figure it out! Copy the code below to get setup.
 
