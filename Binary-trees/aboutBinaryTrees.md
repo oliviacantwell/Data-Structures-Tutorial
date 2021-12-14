@@ -154,7 +154,7 @@ Binary trees are one of the most efficient ways of inserting information. This i
 | insert(value)    | O(log n)        |
 | inOrder     | O(n)        |
 | postOrder    | O(n)        |
-| preOrder     | O(n))        |
+| preOrder     | O(n)        |
 | height(node) | O(n)|
 
 ## Practice
